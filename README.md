@@ -1,10 +1,13 @@
-# ssm-crud
+﻿# ssm-crud
 一个基于ssm框架的员工管理的练习
 
-![ssm-cruc](https://img2018.cnblogs.com/blog/1411662/201811/1411662-20181129224523844-1220616053.png)
+![ssm-crud](https://img2018.cnblogs.com/blog/1411662/201811/1411662-20181129224523844-1220616053.png)
 
 如有需要请参考文章：[地址](https://www.cnblogs.com/famine/p/9778171.html)
 
+## 项目结构图：
+
+[ssm](https://img2018.cnblogs.com/blog/1411662/201811/1411662-20181129214931163-1104412541.png)
 
 ### 简述：
 
